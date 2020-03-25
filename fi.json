@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Käännä THL:n COVID-19-julisteita Suomen vähemmistökielille. Voit myös lisätä uuden kielen. Kirjoita nimesi, niin voimme kiittää sinua! Käännösten lisenssi on CC0\n\nCan you please translate the COVID-19 poster texts of the National Institute for Health and Welfare. You can also add a new language. Write your name as well so we can thank you! The texts will be CC0 licensed."
+			"Käännä THL:n COVID-19-julisteita Suomen vähemmistökielille. Voit myös lisätä uuden kielen. Kirjoita nimesi, niin voimme kiittää sinua! Käännösten lisenssi on CC0\n\nCan you please translate the COVID-19 poster texts of the National Institute for Health and Welfare. You can also add a new language. Write your name as well so we can thank you! The texts will be CC0 licensed.",
+			"Nike"
 		]
 	},
 	"cough-1": "Suojaudu koronavirukselta",
+	"cough-2": "Yski ja niistä oikein.",
 	"shake-1": "Suojaudu koronavirukselta",
 	"shake-2": "Tervehdi ilman kättelyä",
 	"shake-3": "Virus tarttuu kosketuksessa.",
@@ -13,7 +15,7 @@
 	"granny-3": "Tartunta on vaarallisin iäkkäille ja perussairaille.",
 	"distance-1": "Suojaa läheisiäsi koronavirukselta",
 	"distance-2": "Pidä metrin väli",
-	"distance-3": "Virus tarttuu useimmiten\rlähikontaktissa.",
+	"distance-3": "Virus tarttuu useimmiten\nlähikontaktissa.",
 	"sick-1": "Suojaa läheisiäsi koronavirukselta",
 	"sick-2": "Sairasta kotona",
 	"sick-3": "Pysäytä infektion leviäminen.",
