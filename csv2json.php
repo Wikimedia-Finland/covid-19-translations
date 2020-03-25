@@ -7,14 +7,14 @@ while (($row = fgetcsv($handle, 999999, ',', '"')) !== false) {
 fclose($handle);
 
 // Remove starting text
-$header = array_splice($data, 0, 2);
+$header = array_splice($data, 0, 3);
 
 $languageMap = [ '', 'fi', 'en', 'tr', 'pl', 'ru', 'et', 'ar', 'so', 'ckb', 'ku-latn', 'fa', 'zh',
 	'sq', 'vi', 'th', 'es', 'de', 'se', 'smn', 'sms', 'cs', 'pt-br', 'nb' ];
 
 $translations = [];
 foreach ($languageMap as $index => $code) {
-	$authors = $header[0][$index];
+	$authors = $header[1][$index];
 	$authors = str_replace('Translators, write your names here!', '', $authors);
 	$authors = str_replace('(proofreading)', '', $authors);
 	$authors = trim($authors);
