@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Linda Obsilova"
+		]
+	},
+	"wash-1": "Myj si ruce a zabraň tak šíření nemocí",
+	"wash-2": "Před přípravou jídla a před jídlem",
+	"wash-3": "Po příchodu domů",
+	"cough-1": "Chraň se před koronavirem",
+	"shake-2": "Pozdrav bez podání ruky",
+	"shake-3": "Vir se přenáší dotekem.",
+	"granny-1": "Chraň své blízké před koronavirem",
+	"granny-2": "Nenavštěvuj prarodiče a nemocnice",
+	"granny-3": "Nemoc je nejnebezpečnější starým lidem a lidem, jejichž imunita je již oslabena jinou nemocí.",
+	"distance-2": "Dodržuj metrový odstup",
+	"distance-3": "Virus se nejčastěji přenáší blízkým kontaktem.",
+	"sick-2": "Pokud jsi nemocný/á, zůstaň doma.",
+	"sick-3": "Zastav šíření infekce.",
+	"flatten-1": "Zplošti křivku",
+	"flatten-2": "kapacita zdravotnických zařízení",
+	"flatten-3": "čas od prvního případu",
+	"flatten-4": "počet případů",
+	"flatten-5": "naplněna",
+	"flatten-6": "Je jedno, jestli je to jen rýma nebo sezónní chřipka",
+	"flatten-7": "Není třeba panikařit, ale buď opatrný/á",
+	"flatten-12": "myj si ruce",
+	"flatten-13": "nešahej si na obličej",
+	"flatten-14": "pokud jsi nemocný/á, zůstaň doma"
+}

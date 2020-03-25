@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tiago Lubiana"
+		]
+	},
+	"cough-1": "Proteja-se do coronavírus.",
+	"shake-2": "Cumprimente uns aos outros sem aperto de mãos.",
+	"shake-3": "O vírus é transmitido por contato.",
+	"granny-1": "Proteja seus entes queridos do coronavírus.",
+	"granny-2": "Não visite seus avós em casa ou no hospital",
+	"granny-3": "Os idosos e as pessoas com problemas médicos são os mais suscetíveis.",
+	"distance-2": "Fique a um metro de distância.",
+	"distance-3": "O vírus é normalmente transmitido por contato próximo.",
+	"sick-2": "Fique em casa quando estiver doente.",
+	"sick-3": "Impeça que a infecção se espalhe.",
+	"flatten-1": "Achate a curva",
+	"flatten-2": "capacidade do sistema de saúde",
+	"flatten-3": "tempo desde o primeiro caso",
+	"flatten-4": "número de casos",
+	"flatten-5": "lotado",
+	"flatten-6": "tanto faz, é tipo um resfriado ou uma gripe",
+	"flatten-7": "não entre em pânico, mas tenha cuidado",
+	"flatten-12": "lave as mãos",
+	"flatten-13": "não toque o rosto",
+	"flatten-14": "fique em casa quando estiver doente"
+}
