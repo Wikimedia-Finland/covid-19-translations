@@ -10,7 +10,7 @@ fclose($handle);
 $header = array_splice($data, 0, 3);
 
 $languageMap = [ '', 'fi', 'en', 'tr', 'pl', 'ru', 'et', 'ar', 'so', 'ckb', 'ku-latn', 'fa', 'zh',
-	'sq', 'vi', 'th', 'es', 'de', 'se', 'smn', 'sms', 'cs', 'pt-br', 'nb' ];
+	'sq', 'vi', 'th', 'es', 'de', 'se', 'smn', 'sms', 'cs', 'pt-br', 'pt-pt', 'nb' ];
 
 $translations = [];
 foreach ($languageMap as $index => $code) {
@@ -64,6 +64,7 @@ foreach ($translations as $code => $messages) {
 	);
 
 	$out = str_replace('    ', "\t", $out);
+	$out .= "\n";
 
 	file_put_contents("$code.json",$out);
 }
