@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Susannaanas",
+			"Yupik"
+		]
+	},
 	"wash-1": "Poosâ kieđâidâd já eesti tavdâi levânâm",
 	"wash-2": "Ovdil mälistem já purâdem",
 	"wash-3": "Ko puáđáh siisâ",
@@ -20,16 +25,16 @@
 	"flatten-5": "TIEVÂ",
 	"flatten-6": "AAIBÂS SIÄMMÁÁ, TOT LII TUŠE NUÁRVUI TEIKÂ INFLUENSSA",
 	"flatten-7": "IJ SUIJÂ PANIIKÂN, MUT KOOLGAH LEĐE VÁRUGÂS",
-	"flatten-8": "Toolâ kooskâ",
-	"flatten-9": "Suáiti ovdâl ko",
-	"flatten-10": "iäláh tuáhtár kulen",
-	"flatten-11": "teikâ vuosâišán",
+	"flatten-8": "TOOLÂ KOOSKÂ",
+	"flatten-9": "SUÁITI OVDIL KO",
+	"flatten-10": "IÄLÁH TUÁHTÁR KULEN",
+	"flatten-11": "TEIKÂ VUÁLGÁH VUOSÂIŠÁN",
 	"flatten-12": "POOSÂ KIEĐÂIDÂD",
 	"flatten-13": "ELE KUOSKÂTTÂL MUÁĐUIDÂD",
 	"flatten-14": "PISO PÄÄIHIST KO PUOSAH",
 	"transm-1": "TEIKÂ...",
 	"transm-2": "TAAT OLMOOŠ POORGÂI PÄÄIHIST",
-	"transm-3": "TAAT OLMOOŠ IJ iällám BAARIN",
-	"transm-4": "IJ mađhâšâm čuoigâmkuávdážân",
+	"transm-3": "TAAT OLMOOŠ IJ IÄLLÁM BAARIN",
+	"transm-4": "IJ MAĐHÂŠÂM ČUOIGÂMKUÁVDÁŽÂN",
 	"transm-5": "PISOI PÄÄIHIST"
 }

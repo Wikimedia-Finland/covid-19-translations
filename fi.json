@@ -2,11 +2,34 @@
 	"@metadata": {
 		"authors": [
 			"Käännä THL:n COVID-19-julisteita Suomen vähemmistökielille. Voit myös lisätä uuden kielen. Kirjoita nimesi, niin voimme kiittää sinua! Käännösten lisenssi on CC0\n\nCan you please translate the COVID-19 poster texts of the National Institute for Health and Welfare. You can also add a new language. Write your name as well so we can thank you! The texts will be CC0 licensed.",
-			"Nike"
+			"Nike",
+			"Susannaanas"
 		]
 	},
+	"wash-1": "Pese kädet ja laita stoppi tartunnoille.",
+	"wash-2": "Ennen ruoanlaittoa ja ruokailua",
+	"wash-3": "Kun tulet ulkoa sisään",
+	"wash-4": "WC-käynnis tai vaipan vaihdon jälkeen",
+	"wash-5": "Kun olet yskinyt, niistänyt tai aivastanut",
+	"wash-6": "Kun olet koskenut samoja pintoja kuin flunssainen henkilö",
+	"wash-7": "1. Kastele kädet runsaalla vedellä",
+	"wash-8": "2. Ota saippuaa ja hiero kämmeniä vastakkain",
+	"wash-9": "3. Hiero kämmenselät, peukalot ja sormien välit",
+	"wash-10": "4. Hiero sormia lomittain vastatusten",
+	"wash-11": "5. Huuhdo kädet runsaalla vedellä",
+	"wash-12": "6. Kuivaa kätesi huolellisesti käsipyyhepaperilla",
+	"wash-13": "7. Sulje hana käsipyyhepaperilla",
+	"wash-14": "Pieni teko, suuri vaikutus",
+	"sneeze-1": "Yski ja aivasta oikein",
+	"sneeze-2": "Yski ja aivasta hihaasi, niin laitat stopin tartunnoille.",
+	"sneeze-3": "Jos mahdollista, käytä kertakäyttöistä nenäliinaa.",
+	"sneeze-4": "Laita käytetty liina roskiin ja pese kädet saippualla.",
 	"cough-1": "Suojaudu koronavirukselta",
-	"cough-2": "Yski ja niistä oikein.",
+	"cough-2": "Yski ja aivasta oikein.",
+	"cough-3": "Suojaa suusi ja nenäsi kertakäyttöliinalla, kun yskit tai aivastat. Jos sinulla ei ole nenäliinaa, yski tai aivasta puserosi hihan yläosaan.",
+	"hands-1": "Suojaudu koronavirukselta",
+	"hands-2": "Pese kätesi",
+	"hands-3": "Pysäytä infektioiden leviäminen ja vähennä riskiä saada tartunta.",
 	"shake-1": "Suojaudu koronavirukselta",
 	"shake-2": "Tervehdi ilman kättelyä",
 	"shake-3": "Virus tarttuu kosketuksessa.",
@@ -64,5 +87,7 @@
 	"alt-6": "'KULMIEN KOHOTUS'",
 	"alt-7": "'OKEI-NYÖKKÄYS'",
 	"alt-8": "'ITÄ-HELSINGIN KUMARRUS'",
-	"alt-9": "'ETTÄ SELLAISTA'"
+	"alt-9": "'ETTÄ SELLAISTA'",
+	"bubble-1": "KÄYNPÄ PIIPAHTAMASSA...",
+	"bubble-2": "PYSY KUPLASSASI. PIDÄ MUUT TURVASSA."
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Erlan Vega",
 			"Santiago Navarro Sanz",
-			"Archivienne"
+			"Archivienne",
+			"Fitoschido"
 		]
 	},
 	"wash-1": "Lávate las manos para evitar la propagación de infecciones.",
@@ -27,10 +28,10 @@
 	"cough-1": "Protégete del coronavirus.",
 	"cough-2": "Tose y estornuda de manera correcta.",
 	"cough-3": "Cúbrete la nariz y boca con un pañuelo. En caso de que no tengas un pañuelo, usa la parte interna del codo.",
-	"hands-1": "Protégete contra el coronavirus.",
+	"hands-1": "Protégete del coronavirus.",
 	"hands-2": "Lávate las manos.",
 	"hands-3": "Para la propagación del virus y reduce el riesgo de infección.",
-	"shake-1": "Protégete contra el coronavius.",
+	"shake-1": "Protégete del coronavius.",
 	"shake-2": "No des la mano para saludar.",
 	"shake-3": "El virus se transmite por contacto.",
 	"granny-1": "Protege a tus seres queridos del coronavirus.",
@@ -38,7 +39,7 @@
 	"granny-3": "Los ancianos y la gente con problemas de salud son los más susceptibles.",
 	"distance-1": "Protege a tus seres queridos del coronavirus.",
 	"distance-2": "Mantén una distancia de un metro",
-	"distance-3": "El virus normalmente se transmite con el contacto cercano",
+	"distance-3": "El virus normalmente se transmite con el contacto cercano.",
 	"sick-1": "Protege a tus seres queridos del coronavirus.",
 	"sick-2": "Quédate en casa si estás enfermo.",
 	"sick-3": "Evita que la infección se propague.",
@@ -48,7 +49,7 @@
 	"flatten-4": "Número de casos",
 	"flatten-5": "LlenO",
 	"flatten-6": "Ni importa, esto solo es como un resfriado o gripe.",
-	"flatten-7": "No te dejes llevar por el pánico, pero sé cuidadoso.",
+	"flatten-7": "NO TE DEJES LLEVAR POR EL PÁNICO, PERO SÉ PRUDENTE",
 	"flatten-8": "Mantén la distancia",
 	"flatten-9": "LLAMA POR ADELANTADO ANTES DE IR",
 	"flatten-10": "AL MÉDICO O",
@@ -73,7 +74,7 @@
 	"spread-7": "NINGUNA RESPUESTA COLECTIVA",
 	"spread-8": "BAH",
 	"spread-9": "FIRME RESPUESTA COLECTIVA (MEJOR DE LOS CASOS)",
-	"spread-10": "TRABAJANDO DESDE CASA",
+	"spread-10": "TRABAJO DESDE CASA",
 	"spread-11": "SIN VIAJAR",
 	"spread-12": "EVENTO CANCELADO",
 	"spread-13": "¡LO HEMOS CONSEGUIDO!",
@@ -87,6 +88,7 @@
 	"alt-5": "NZSL: ¿COMO ESTÁS?",
 	"alt-6": "LEVANTAR LAS CEJAS",
 	"alt-7": "INCLINAR LA CABEZA",
-	"alt-8": "EL 'EAST COAST WAVE'",
-	"alt-9": "EL '¿QUÉ MUNDO, EH?'"
+	"alt-8": "EL SALUDO DE LA COSTA ESTE",
+	"alt-9": "EL «¿VAYA MUNDO, EH?»",
+	"bubble-2": "PERMANECE EN TU BURBUJA. CUIDA A LOS DEMÁS."
 }

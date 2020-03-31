@@ -1,15 +1,20 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Yupik"
+		]
+	},
 	"wash-1": "Basa gieđaidat ja eastte dávddaid leavvamis",
 	"wash-2": "ovdal málesteami ja boradeami",
 	"wash-3": "go boađát olgun sisa",
 	"wash-4": "hivssegis fitnama dahje lihpara molsuma maŋŋá",
 	"wash-5": "nissuma, gossama dahje gastima maŋŋá",
 	"wash-6": "go leat guoskan seamma bajildusaid go olmmoš, geas lea nuorvofeber.",
+	"hands-2": "Basa gieđaidat.",
 	"distance-2": "Doalat 1 mehter gaskka",
 	"distance-3": "Virus njoammu dábálaččat lagaskontávttas",
 	"sick-2": "Biso ruovttus go leat skibas",
-	"sick-3": "Eastte dávddaid leavvama",
+	"sick-3": "Eastte dávddaid leavvamis",
 	"flatten-1": "VUOLIT SOJU ČOHKA",
 	"flatten-2": "DEARVVASVUOĐADIKŠUMA KAPASITEAHTTA",
 	"flatten-3": "ÁIGI MII LEA VÁSSÁN VUOSTTAŠ DÁHPÁHUSA RÁJES",
@@ -17,10 +22,10 @@
 	"flatten-5": "DIEVVA",
 	"flatten-6": "ÁIBBAS SEAMMA, DAT LEA DUŠŠE NUORVVU DAHJE INFLUEÁNSA",
 	"flatten-7": "II SIVVA PANIHKKII, MUHTO GÁNNÁHA LEAT VÁRROGAS",
-	"flatten-8": "Doalat gaskka",
-	"flatten-9": "Riŋge ovdal go",
-	"flatten-10": "finat doaktára luhtte",
-	"flatten-11": "dahje manat vuosttašveahkkái",
+	"flatten-8": "DOALAT GASKKA",
+	"flatten-9": "RIŊGE OVDAL GO",
+	"flatten-10": "FINAT DOAKTÁRA LUHTTE",
+	"flatten-11": "DAHJE MANAT VUOSTTAŠVEAHKKÁI",
 	"flatten-12": "BASA GIEĐAIDAT",
 	"flatten-13": "VEALTTE GUOSKAME MUOĐUIDAT",
 	"flatten-14": "BISO RUOVTTUS GO LEAT SKIBAS",
